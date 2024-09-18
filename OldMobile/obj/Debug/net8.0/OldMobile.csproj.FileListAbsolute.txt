@@ -1,0 +1,14 @@
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.AssemblyInfoInputs.cache
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.AssemblyInfo.cs
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.csproj.CoreCompileInputs.cache
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\bin\Debug\net8.0\OldMobile.exe
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\bin\Debug\net8.0\OldMobile.deps.json
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\bin\Debug\net8.0\OldMobile.runtimeconfig.json
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\bin\Debug\net8.0\OldMobile.dll
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\bin\Debug\net8.0\OldMobile.pdb
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.dll
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\refint\OldMobile.dll
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.pdb
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\OldMobile.genruntimeconfig.cache
+C:\Users\Suraj Singh\Downloads\OldMobile\OldMobile\obj\Debug\net8.0\ref\OldMobile.dll
